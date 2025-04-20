@@ -1,0 +1,118 @@
+/* Global Theme */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image:
+      linear-gradient(to bottom, rgba(0, 8, 11, 0.85), rgba(1, 45, 79, 0.85), rgba(2, 102, 144, 0.85)),
+      url('https://ak2.picdn.net/shutterstock/videos/299485/thumb/1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left;
+    color: #f0f0f0;
+  }
+  
+  /* Navbar */
+  header.navbar {
+    background: linear-gradient(90deg, #10ccf4, #007bff);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: #ffffff !important;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffffff !important;
+    font-size: 1.1rem;
+    margin: 0 10px;
+  }
+  
+  /* Register Main Area */
+  .register-main {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  /* Glassy Register Card */
+  .register-card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(12px);
+    color: #f0f0f0;
+  }
+  
+  .register-card .card-body {
+    padding: 40px;
+  }
+  
+  .register-card h3 {
+    font-weight: 700;
+    font-size: 1.9rem;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  
+  /* Form */
+  .form-label {
+    font-weight: 600;
+    color: #060606;
+  }
+  
+  .form-control {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #ffffff;
+  }
+  
+  .form-control:focus {
+    border-color: #00bcd4;
+    background-color: rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+  }
+  
+  /* Buttons */
+  .cta-button, .btn-primary, .buy-now-btn {
+    margin-top: 15px;
+    background: linear-gradient(to right, #00bcd4, #0097a7);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 14px rgba(0, 150, 136, 0.3);
+  }
+  
+  .cta-button:hover, .btn-primary:hover, .buy-now-btn:hover {
+    background: linear-gradient(to right, #0097a7, #006064);
+    box-shadow: 0 6px 20px rgba(0, 150, 136, 0.4);
+    transform: scale(1.05);
+  }
+  
+  /* Center button (if any grid layout used) */
+  .center-button {
+    grid-column: span 2;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  /* Footer */
+  footer, .footer {
+    background-color: #003049;
+    color: #ffffff;
+    text-align: center;
+    padding: 7px 0;
+    font-size: 0.95rem;
+    margin-top: auto;
+  }

@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "3148",
+      "firstName": "ramesh",
+      "lastName": "m",
+      "email": "ramesh2022@gmail.com",
+      "phone": "1234567890",
+      "username": "ramesh",
+      "password": "123456"
+    },
+    {
+      "id": "bdac",
+      "firstName": "pavan",
+      "lastName": "m",
+      "email": "pinni.lokesh252@gmail.com",
+      "phone": "1234567890",
+      "username": "pavan",
+      "password": "123456"
+    },
+    {
+      "id": "7e13",
+      "firstName": "raksha",
+      "lastName": "m",
+      "email": "srirakshamalladi@gmail.com",
+      "phone": "1234567890",
+      "username": "raksha",
+      "password": "123456"
+    },
+    {
+      "id": "cf32",
+      "firstName": "akaash",
+      "lastName": "manda",
+      "email": "akaashmanda@gmail.com",
+      "phone": "9493019687",
+      "username": "akaash",
+      "password": "123456"
+    },
+    {
+      "id": "3801",
+      "firstName": "architha",
+      "lastName": "m",
+      "email": "archita@gmail.com",
+      "phone": "1234567890",
+      "username": "architha",
+      "password": "123456"
+    },
+    {
+      "id": "59a3",
+      "firstName": "vatsava",
+      "lastName": "m",
+      "email": "23071a05r7@vnrvjiet.in",
+      "phone": "1234567890",
+      "username": "vatsava",
+      "password": "123456"
+    },
+    {
+      "id": "4b14",
+      "firstName": "rithvik",
+      "lastName": "m",
+      "email": "ramesh2022@gmail.com",
+      "phone": "1234567890",
+      "username": "rithvik",
+      "password": "123456"
+    },
+    {
+      "id": "53e6",
+      "firstName": "suresh",
+      "lastName": "m",
+      "email": "srirakshamalladi@gmail.com",
+      "phone": "1234567890",
+      "username": "suresh",
+      "password": "123456"
+    }
+  ]
+}

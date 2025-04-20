@@ -1,0 +1,14 @@
+.footer-fixed {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0 -1px 5px rgba(0,0,0,0.1);
+  }
+  .footer{
+    background: linear-gradient(to right, #0097a7, #00bcd4);
+  }
+  
